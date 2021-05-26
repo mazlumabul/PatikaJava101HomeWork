@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Kullanýcý Giriþi
 Java koþullu ifadeler ile kullanýcý adý ve þifreyi kontrol eden program yapýmý.
-
+    
 Ödev
 Eðer þifre adý yanlýþ ise kullanýcýya þifresini sýfýrlayýp sýfýrlamayacaðýný sorun, 
 eðer kullanýcý sýfýrlamak isterse yeni girdiði þifrenin hatalý girdiði
