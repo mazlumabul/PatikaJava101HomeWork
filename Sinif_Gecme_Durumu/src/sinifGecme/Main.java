@@ -15,8 +15,8 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 
 		int mat, fizik, turkce, kimya, muzik;
-		double avarage = 0, total=0;
-
+		double avarage = 0, total=0; 
+ 
 		System.out.print("Matematik Notunuz : ");
 		mat = scanner.nextInt();
 
@@ -51,6 +51,7 @@ public class Main {
 		
 		avarage = total/5;
 		if(avarage >= 55) {
+			
 			System.out.println("Ortalamanýz : " + avarage);
 			System.out.println("Tebrikler geçtiniz...");
 		} else {
