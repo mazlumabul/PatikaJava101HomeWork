@@ -19,9 +19,8 @@ public class Main {
 		}
 
 		Arrays.sort(list);
-
-		for (int i = list.length; i > 0; --i) {
-			System.out.println(list[i - 1]);
+		for(int i : list) {
+			System.out.println(i);
 		}
 	}
 }
